@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Klinik Sehat — Python Tkinter",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/desktop_app/main.py",
+      "python": "${workspaceFolder}/.tools/python/python.exe",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
